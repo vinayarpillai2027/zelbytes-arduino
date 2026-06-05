@@ -84,5 +84,4 @@ Day7_LDR_Calibration/
 ## Date
 2026-06-05
 
-## Author
-Task 4 - Day 7 - Polyhouse Monitoring System
+
